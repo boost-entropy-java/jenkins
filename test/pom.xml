@@ -124,7 +124,7 @@ THE SOFTWARE.
     <dependency>
       <groupId>io.jenkins.plugins</groupId>
       <artifactId>javax-mail-api</artifactId>
-      <version>1.6.2-7</version>
+      <version>1.6.2-8</version>
       <scope>test</scope>
     </dependency>
     <dependency>
@@ -165,7 +165,7 @@ THE SOFTWARE.
     <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>
       <artifactId>junit</artifactId>
-      <version>1143.v8d9a_e3355270</version>
+      <version>1144.v909f4d9978e8</version>
       <scope>test</scope>
     </dependency>
     <dependency>
