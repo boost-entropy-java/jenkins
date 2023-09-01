@@ -4361,7 +4361,7 @@ __metadata:
     handlebars: 4.7.8
     handlebars-loader: 1.7.3
     hotkeys-js: 3.12.0
-    jquery: 3.7.0
+    jquery: 3.7.1
     lodash: 4.17.21
     mini-css-extract-plugin: 2.7.6
     postcss: 8.4.28
@@ -4379,7 +4379,7 @@ __metadata:
     tippy.js: 6.3.7
     webpack: 5.88.2
     webpack-cli: 5.1.4
-    webpack-remove-empty-scripts: 1.0.3
+    webpack-remove-empty-scripts: 1.0.4
     window-handle: 1.0.1
   languageName: unknown
   linkType: soft
@@ -4430,10 +4430,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jquery@npm:3.7.0":
-  version: 3.7.0
-  resolution: "jquery@npm:3.7.0"
-  checksum: 907785e133afc427650a131af5fccef66a404885037513b3d4d7d63aee6409bcc32a39836868c60e59b05aa0fb8ace8961c18b2ee3ffdf6ffdb571d6d7cd88ff
+"jquery@npm:3.7.1":
+  version: 3.7.1
+  resolution: "jquery@npm:3.7.1"
+  checksum: 4370b8139d6ae82867eb6f7f21d1edccf1d1bdf41c0840920ea80d366c2cd5dbe1ceebb110ee9772aa839b04400faa1572c5c560b507c688ed7b61cea26c0e27
   languageName: node
   linkType: hard
 
@@ -7167,14 +7167,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"webpack-remove-empty-scripts@npm:1.0.3":
-  version: 1.0.3
-  resolution: "webpack-remove-empty-scripts@npm:1.0.3"
+"webpack-remove-empty-scripts@npm:1.0.4":
+  version: 1.0.4
+  resolution: "webpack-remove-empty-scripts@npm:1.0.4"
   dependencies:
     ansis: 1.5.2
   peerDependencies:
     webpack: ">=5.32.0"
-  checksum: af7e2626608304037b8723f05b81690f280b50766fccc28e4a0bdbe29eb58b5aa95808449f26b67a92ba26f1d707a118820f5c2571cc340f3588a33751853b54
+  checksum: 82032989a15daad9e2850789572435ff3fd77f85e855e2a9397a84e54d71138bb94cb28c778b3a5881a721c91f5471507cac6f1519067041877c32e1870e44c6
   languageName: node
   linkType: hard
 
