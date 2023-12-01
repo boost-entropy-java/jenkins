@@ -100,7 +100,7 @@ THE SOFTWARE.
         <!-- requireUpperBoundDeps via matrix-project and junit -->
         <groupId>org.jenkins-ci.plugins</groupId>
         <artifactId>script-security</artifactId>
-        <version>1281.v22fb_899df1a_e</version>
+        <version>1294.v99333c047434</version>
       </dependency>
       <dependency>
         <!-- Required by plugin-util-api -->
@@ -121,7 +121,7 @@ THE SOFTWARE.
     <dependency>
       <groupId>${project.groupId}</groupId>
       <artifactId>jenkins-test-harness</artifactId>
-      <version>2112.ve584e0edc63b_</version>
+      <version>2115.v0d2b_4a_a_e80f8</version>
       <scope>test</scope>
       <exclusions>
         <exclusion>
