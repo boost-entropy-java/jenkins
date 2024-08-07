@@ -47,12 +47,14 @@ THE SOFTWARE.
     <!-- HTTP listener port -->
     <port>8080</port>
     <mina-sshd-api.version>2.13.1-117.v2f1a_b_66ff91d</mina-sshd-api.version>
+    <!-- Minimum Remoting version, which is tested for API compatibility, duplicated so that renovate only updates the latest remoting version property -->
+    <remoting.minimum.supported.version>3107.v665000b_51092</remoting.minimum.supported.version>
     <node.version>20.16.0</node.version>
     <!-- frontend-maven-plugin will install this Yarn version as bootstrap, then hand over control to Yarn Berry. -->
     <yarn.version>1.22.19</yarn.version>
     <!-- maven-antrun-plugin will download this Yarn version. -->
-    <yarn-berry.version>4.2.2</yarn-berry.version>
-    <yarn-berry.sha256sum>1aa43a5304405be7a7cb9cb5de7b97de9c4e8ddd3273e4dad00d6ae3eb39f0ef</yarn-berry.sha256sum>
+    <yarn-berry.version>4.4.0</yarn-berry.version>
+    <yarn-berry.sha256sum>5f228cb28f2edb97d8c3b667fb7b2fdcf06c46798e25ea889dad9e0b4bc2e2c1</yarn-berry.sha256sum>
   </properties>
 
   <dependencyManagement>
@@ -500,7 +502,7 @@ THE SOFTWARE.
                   <!-- dependency of bootstrap5-api, checks-api, echarts-api, font-awesome-api, jquery3-api, and plugin-util-api -->
                   <groupId>io.jenkins.plugins</groupId>
                   <artifactId>commons-text-api</artifactId>
-                  <version>1.12.0-119.v73ef73f2345d</version>
+                  <version>1.12.0-129.v99a_50df237f7</version>
                   <type>hpi</type>
                 </artifactItem>
                 <artifactItem>
