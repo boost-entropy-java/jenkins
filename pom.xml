@@ -87,13 +87,13 @@ THE SOFTWARE.
     <changelog.url>https://www.jenkins.io/changelog</changelog.url>
 
     <!-- Bundled Remoting version -->
-    <remoting.version>3256.3258.v858f3c9a_f69d</remoting.version>
+    <remoting.version>3261.v9c670a_4748a_9</remoting.version>
 
     <spotbugs.effort>Max</spotbugs.effort>
     <spotbugs.threshold>Medium</spotbugs.threshold>
 
     <access-modifier.version>1.33</access-modifier.version>
-    <antlr.version>4.13.1</antlr.version>
+    <antlr.version>4.13.2</antlr.version>
     <bridge-method-injector.version>1.29</bridge-method-injector.version>
     <spotless.check.skip>false</spotless.check.skip>
     <!-- Make sure to keep the jetty-maven-plugin version in war/pom.xml in sync with the Jetty release in Winstone: -->
