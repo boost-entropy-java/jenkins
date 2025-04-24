@@ -178,7 +178,7 @@ THE SOFTWARE.
     <dependency>
       <groupId>org.jenkins-ci.main</groupId>
       <artifactId>jenkins-test-harness</artifactId>
-      <version>2429.v843718995d1d</version>
+      <version>2435.ve31a_a_7742319</version>
       <scope>test</scope>
       <exclusions>
         <exclusion>
@@ -350,7 +350,7 @@ THE SOFTWARE.
                 <artifactItem>
                   <groupId>io.jenkins.plugins</groupId>
                   <artifactId>design-library</artifactId>
-                  <version>374.v9466b_9e00db_b_</version>
+                  <version>376.v76d809f50b_83</version>
                   <type>hpi</type>
                   <outputDirectory>${project.build.outputDirectory}/plugins</outputDirectory>
                   <destFileName>design-library.jpi</destFileName>
